@@ -35,9 +35,9 @@ export default class App extends Component {
 
       <WebView
         source={{
-          uri: 'https://master.d1vh19329qeha9.amplifyapp.com/'
+          uri: 'https://master.d2exd6zivllgl0.amplifyapp.com/'
         }}
-        style={{ marginTop: 20 }}
+       // style={{ marginTop: 20 }}
       />
 
     );
